@@ -1,0 +1,88 @@
+html {
+    background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: justify;
+}
+
+img {
+    border-radius: 50%;
+    border-style: outset;
+    border-color: rgb(161, 141, 108);
+}
+
+/*editting section types*/
+
+header {
+    text-align: center;
+    background-color: rgb(42, 46, 54);
+   
+}
+
+aside {
+    background-color: rgb(244, 214, 68);
+    background-size: 100px, 100px;
+}
+
+
+/*editting section types*/
+
+/*editing the text*/
+h1 {
+    color: whitesmoke;
+    margin-top: 50px;
+}
+
+h2 {
+    color: ;
+}
+
+p, ul {
+    color: rgb(115, 115, 115);
+}
+
+h3 {
+    color: rgb(49, 48, 50);
+
+}
+
+p, ul, {
+    margin-left: 75px;
+    margin-right: 75px;
+} 
+
+h3, h2 {
+    margin-left: 15px;
+}
+/*editing the text*/
+
+
+hr {
+    height: 4px;
+  border-width:0;
+background-color: rgb(244, 214, 68);
+
+}
+
+
+
+/*this is to edit the links and how they interact*/
+a {
+    
+    color: rgb(23, 24, 24);
+    text-decoration: none;
+    text-transform: none;
+  }
+  
+  a:hover {
+    cursor: pointer;
+    color: rgb(244, 214, 68);
+  }
+
+  a:active {
+    background-color: black;
+  }
+  
+  a:visited {
+    background-color: rgb(190, 165, 125);
+  }
+  /*this is to edit the links and how they interact*/
